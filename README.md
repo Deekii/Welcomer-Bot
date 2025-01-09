@@ -16,4 +16,4 @@ Feel free to fork the repo and submit a pull request if you'd like to improve or
 ---
 
 ## 📧 Contact
-For any questions or suggestions, reach out to me at: dejanmikluc3@gmail.com 📬
+For any questions or suggestions, reach out to me at: dejanmikluc43@gmail.com 📬
